@@ -16,7 +16,10 @@ The project implements **full-step control** via LINX (VISA) for precise motion 
 ## Usage
 1. Connect Arduino to your PC via USB.  
 2. Wire the stepper motor through L293D as per circuit diagram.  
-3. Open the LabVIEW project (`.lvproj`) and run the VI.  
+3. Open the LabVIEW project (`.lvproj`) and run the VI.
+
+## Wiring Diagram
+[Wiring Diagram](Wiring_Diagram.png)
 
 ## Notes
 - Make sure LINX is installed in LabVIEW.  
