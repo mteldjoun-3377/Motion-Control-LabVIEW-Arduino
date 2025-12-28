@@ -19,7 +19,7 @@ The project implements **full-step control** via LINX (VISA) for precise motion 
 3. Open the LabVIEW project (`.lvproj`) and run the VI.
 
 ## Wiring Diagram
-[Wiring Diagram](Wiring_Diagram.png)
+Wiring_Diagram.jpg
 
 ## Notes
 - Make sure LINX is installed in LabVIEW.  
